@@ -11,6 +11,6 @@ title: "Hello World"
 
 大花，中文名字的白話；法蘭西斯，英文名字的翻譯。
 
+![]({{Mywebsite }}/assets/images/Hung-HuaTien.jpg)
 
-![](/assets/images/HungHuaTien.jpg)
 ```
