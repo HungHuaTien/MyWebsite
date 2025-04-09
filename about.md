@@ -18,5 +18,6 @@ BigflowerFrancis@gmail.com
 
 到頭這一身，難逃那一日。受用了一朝，一朝便宜。百歲光陰，七十者稀。急急流年，滔滔逝水。
 
+![]({{Mywebsite}}/assets/images/BigflowerFrancis.jpg)
 
-![](/assets/images/BigflowerFrancis.jpg)
+
