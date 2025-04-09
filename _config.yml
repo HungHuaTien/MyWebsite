@@ -1,0 +1,18 @@
+---
+title: 我的部落格
+description: 學習如何與 AI 協作設計教案與筆記
+author: Hung-Hua Tien
+email: bigflowerfrancis@gmail.com
+
+baseurl: "/MyWebsite"  # 若為 GitHub Pages 的 user repo，留空；若是 project repo，要加 /MyWebsite
+url: "https://hunghuatien.github.io"
+
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# 選填：增加中文支援與 Meta 資訊
+lang: zh-TW
+
+---
