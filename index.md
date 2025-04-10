@@ -11,8 +11,6 @@ title: "🏠Hello World"
 
 大花法蘭西斯，Bigflower Francis。大花，中文名字的白話；法蘭西斯，英文名字的翻譯。
 
-![圖片說明]({{/MyWebsite}}/assets/images/logo-bigflower.png)
-
-
+![logo]({{ site.baseurl }}/assets/images/logo-bigflower.png)
 
 ```
