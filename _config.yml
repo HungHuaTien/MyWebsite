@@ -4,8 +4,8 @@ description: 學習如何與 AI 協作設計教案與筆記
 author: Hung-Hua Tien
 email: bigflowerfrancis@gmail.com
 
-baseurl: "/MyWebsite"  # 若為 GitHub Pages 的 user repo，留空；若是 project repo，要加 /MyWebsite
-url: "https://hunghuatien.github.io"
+baseurl: ""  # 若為 GitHub Pages 的 user repo，留空；若是 project repo，要加 /MyWebsite
+url: "https://hunghuatien.github.io/MyWebsite"
 
 theme: minima
 plugins:
