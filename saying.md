@@ -1,4 +1,6 @@
-# ✏️ViewPoints
+---
+title: "✏️ViewPoints"
+---
 
 
 
