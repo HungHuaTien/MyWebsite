@@ -1,12 +1,12 @@
 ---
-title: "ViewPoints"
+title: "✏️ViewPoints"
 ---
 
-### To be or not to be : 人類價值的選擇
+### 🧭To be or not to be : 人類價值的選擇
 
-#### 🧭 智能增強的發展方向
+#### 🧠智能增強的發展方向
 
-#### 🧠結構化思考的提示語
+#### 📜結構化思考的提示語
 
 - 我該怎麼問，AI 才能更懂我呢？
 
