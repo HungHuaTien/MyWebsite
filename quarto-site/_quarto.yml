@@ -18,7 +18,9 @@ website:
       - text: 統計方法
         href: method.html
       - text: 學習主題
-        href: learning.html      
+        href: learning.html
+      - text: AI Coach專區
+        href: coach.html        
       
 
 format:
