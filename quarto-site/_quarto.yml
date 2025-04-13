@@ -1,0 +1,27 @@
+
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "我的IA部落格"
+  navbar:
+    left:
+      - text: 首頁
+        href: index.html
+      - text: 專欄文章
+        href: posts/post.html
+      - text: 智能增強
+        href: ia/
+      - text: 個體經濟
+        href: micro/
+      - text: 統計方法
+        href: method/
+      - text: 學習主題
+        href: learning/     
+      
+
+format:
+  html:
+    theme: cosmo
+    toc: true
