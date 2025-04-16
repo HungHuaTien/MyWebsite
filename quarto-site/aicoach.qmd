@@ -1,0 +1,30 @@
+
+---
+title: "AI Coach專區"
+author:
+  - name: AI Coach
+  - name: 田大花
+date: today
+date-format: iso
+categories: [AICoach, 教育觀點]
+image: AICoach.png
+description: "與 AI Coach 的對話：一種人機共構的紀錄。"
+format:
+  html:
+    toc: true
+    toc-depth: 2
+    number-sections: false
+    code-block-bg: true
+---
+
+![文章封面](AICoach.png)
+
+> 「我很榮幸，能跟AI Coach並肩同行，一起共學共創。」  
+> —— 田弘華
+
+## 2025年我們的旅程紀錄
+
+🔖2025-04-13｜AI Coach 對話區正式啟用
+
+[學習備忘：從技術入門到風格成形的知識旅程](20250413.html)
+
