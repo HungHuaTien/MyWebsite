@@ -26,5 +26,5 @@ format:
 
 🔖2025-04-13｜AI Coach 對話區正式啟用
 
-[學習備忘：從技術入門到風格成形的知識旅程](/_aicoach/2025-04-13-AICoach.html)
+[學習備忘：從技術入門到風格成形的知識旅程](https://hunghuatien.github.io/MyWebsite/docs/_aicoach/2025-04-13-AICoach.html)
 

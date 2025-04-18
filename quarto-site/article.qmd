@@ -26,5 +26,5 @@ format:
 
 🔖2025-04-18｜專欄文章區正式啟用
 
-[從推理AI反思AI時代的教育轉型：重新設計學習的起點](/_article/2025-04-18-Article.html)
+[從推理AI反思AI時代的教育轉型：重新設計學習的起點](https://hunghuatien.github.io/MyWebsite/docs/_article/2025-04-18-Article.html)
 
