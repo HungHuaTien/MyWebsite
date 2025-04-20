@@ -1,0 +1,48 @@
+
+project:
+  type: website
+  output-dir: ../docs
+
+website:
+  title: "我的IA部落格"
+  site-url: "https://bigflowerfrancis.github.io/MyWebsite"
+  repo-url: "https://github.com/bigflowerfrancis/MyWebsite"
+  navbar:
+    left:
+      - text: 首頁
+        href: index.html
+      - text: AI時代的教育
+        href: column.html
+      - text: AI Coach專區
+        href: journey.html
+    right:
+      - icon: github
+        href: https://github.com/bigflowerfrancis/MyWebsite
+  sidebar:
+    style: floating
+    search: true
+    contents:
+      - index.qmd
+      - column.qmd
+      - section: "✏️專欄文章"
+        contents:
+          - text: To Prompt or Not to Prompt：用提示語開啟人機協作的智慧之旅
+            href: /column/2025-04-12-Article.html
+          - text: 從推理AI反思AI時代的教育轉型：重新設計學習的起點
+            href: /column/2025-04-18-Article.html
+      - journey.qmd
+      - section: "📘學習備忘"
+        contents:
+          - text: 從技術入門到風格成形的知識旅程
+            href: /journey/2025-04-13-AICoach.html
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+    toc: true
+    toc-depth: 3
+    code-fold: true
+    code-summary: "顯示程式碼"
+    number-sections: false
+  

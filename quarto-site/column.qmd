@@ -1,0 +1,32 @@
+
+---
+title: "AI時代的教育"
+author:
+  - name: 田弘華
+  - name: AI Coach
+date: today
+date-format: iso
+categories: [AICoach, 教育觀點]
+image: AICoach.png
+description: "在AI時代，讓我們一起重新設計學習的起點。"
+format:
+  html:
+    toc: true
+    toc-depth: 2
+    number-sections: false
+    code-block-bg: true
+---
+
+![圖像](article.jpg)
+
+> 「AI 時代最重要的學習，不是工具，而是設計。」  
+> —— AI Coach
+
+## 2025年春
+
+🔖2025-04-12｜專欄文章區正式啟用
+
+[To Prompt or Not to Prompt：用提示語開啟人機協作的智慧之旅](/column/2025-04-12-Article.html)
+
+[從推理AI反思AI時代的教育轉型：重新設計學習的起點](/column/2025-04-18-Article.html)
+
